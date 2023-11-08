@@ -4,7 +4,7 @@ This an extension for the [MagicMirror](https://github.com/MichMich/MagicMirror)
 This is version 2.0 and may still be prone to some bugs/failure.
 
 ## Installation
-1. Navigate into your MagicMirror's `modules` folder and execute `git clone https://github.com/archerydwd/DWD-RealtimeIrishRail.git`. A new folder will appear.
+1. Navigate into your MagicMirror's `modules` folder and execute `git clone https://github.com/DavidLSmyth/DWD-RealtimeIrishRail`. A new folder will appear.
 2. Change directory into the new folder: cd DWD-RealtimeIrishRail/
 3. Run npm install
 4. Add DWD-RealtimeIrishRail to the modules array in the `config/config.js` (see next step below)
